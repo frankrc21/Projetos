@@ -25,7 +25,7 @@ entrada = ctk.CTkLabel(janela, text="Digite os nomes dos alunos:")
 entrada.pack(pady=(10, 0))
 
 # exemplo
-entrada2 = ctk.CTkLabel(janela, text="(Por exemplo: Fulano, Beltrano, Cicrano...)", font=("", 10))
+entrada2 = ctk.CTkLabel(janela, text="(Por exemplo: Fulano de Tal, Beltrano, Sicrano...)", font=("", 10))
 entrada2.pack(pady=0)
 
 # espaço pra inserir os nomes
@@ -33,10 +33,10 @@ entrada_text = ctk.CTkTextbox(janela, height=30)
 entrada_text.pack(pady=10)
 
 # botão pra sortear os nomes
-embaralhar_button = ctk.CTkButton(janela, text="Clique para sortear a ordem", command=sortear_nomes)
-embaralhar_button.pack(pady=10)
+sortear_button = ctk.CTkButton(janela, text="Clique para sortear", command=sortear_nomes)
+sortear_button.pack(pady=10)
 
-# textor rs
+# texto
 resultado_label = ctk.CTkLabel(janela, text="Ordem sorteada:")
 resultado_label.pack(pady=10)
 
