@@ -11,10 +11,10 @@ Criar programas básicos com interfaces gráficas simples, para testar meu desem
 
 ## Programas 💻 
 
-- [Sorteio de Nomes](#sorteio-de-nomes)
-- [Inatividade Zero](#inatividade-zero)
+- [Sorteio de Nomes](#sorteio-de-nomes-🎲)
+- [Inatividade Zero](#inatividade-zero-0️⃣)
 
-### Sorteio de Nomes** 🎲
+### Sorteio de Nomes 🎲
 
 ▶️ **Finalidade:**
 
@@ -28,7 +28,7 @@ Após isso, ao clicar no botão presente abaixo, o programa realiza o sorteio de
 
 ▶️ **Interface:**
 
-![alt text](image-1.png)
+![Interface](SORTEIO_NOMES/interface.png)
 
 📚 **Bibliotecas utilizadas:**
 
