@@ -11,10 +11,10 @@ Criar programas básicos com interfaces gráficas simples, para testar meu desem
 
 ## Programas 💻 
 
-- [Sorteio de Nomes](#sorteio-de-nomes)
-- [Inatividade Zero](#inatividade-zero)
+- [Sorteio de Nomes](#sorteio-de-nomes-🎲)
+- [Inatividade Zero](#inatividade-zero-0️⃣)
 
-### Sorteio de Nomes** 🎲
+### Sorteio de Nomes 🎲
 
 ▶️ **Finalidade:**
 
@@ -28,12 +28,12 @@ Após isso, ao clicar no botão presente abaixo, o programa realiza o sorteio de
 
 ▶️ **Interface:**
 
-![alt text](image-1.png)
+![alt text](SORTEIO_NOMES/image-1.png)
 
 📚 **Bibliotecas utilizadas:**
 
-- [customtkinter](https://pypi.org/project/customtkinter/)
-- [random](https://docs.python.org/3/library/random.html)
+- <a href="https://pypi.org/project/customtkinter/" target="_blank">customtkinter</a>
+- <a href="https://docs.python.org/3/library/random.html" target="_blank">random</a>
 
 🔗 Links Diretos:
 
