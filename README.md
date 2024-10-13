@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<strong><em>ROJETOS DE APRENDIZADO 👨‍💻📚</em></strong>
+<strong><em>PROJETOS DE APRENDIZADO </em></strong>👨‍💻📚
 </h1>
 
 Este repositório tem por finalidade armazenar e compartilhar alguns dos meus pequenos projetos em _Python_, além de registrar meu aprendizado acerca desta linguagem e suas funcionalidades.
