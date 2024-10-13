@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['sorteio_nomes.py'],
+    ['SORTEIO_NOMES\\sorteio_nomes.py'],
     pathex=[],
     binaries=[],
     datas=[],
